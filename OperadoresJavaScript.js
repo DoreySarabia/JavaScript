@@ -1,4 +1,4 @@
-/* 
+
 let a = 3, b= 2; 
 let z = a + b; 
 
@@ -179,7 +179,7 @@ if (isNaN(edad)){
     console.log(resultado)
 }
 
-*/
+
 
 //Precedencia de operadores
 let x = 5;

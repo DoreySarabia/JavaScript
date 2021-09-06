@@ -85,7 +85,7 @@ class Persona{
         this._apellido = apellido;
     }
     nombreCompleto(){
-        reurn this._nombre + ' ' + apellido;
+        return this._nombre + ' ' + apellido;
     }
 }
 
